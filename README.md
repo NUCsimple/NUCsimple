@@ -10,6 +10,7 @@
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=Go&logoColor=007396)
+  ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
   
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
